@@ -23,12 +23,12 @@
 
 ### Java 接入
 
-> 前提需要Java运行时环境
+> 前提需要Java 17 运行时环境
 
 #### 安装
 
 ``` bash
-git clone https://github.com/gulihua10010/mcp-mianshiya-server
+git clone https://github.com/yuyuanweb/mcp-mianshiya-server
 ```
 
 #### 构建
