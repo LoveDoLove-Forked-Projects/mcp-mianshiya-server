@@ -20,5 +20,5 @@ spring:
 
 endpoint:
   mianshiya:
-    searchQuestion: http://api.mianshiya.com/api/question/mcp/search
+    searchQuestion: https://api.mianshiya.com/api/question/mcp/search
     resultLink: https://www.mianshiya.com/question/%s
